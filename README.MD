@@ -2,8 +2,8 @@
 
 <h3> :man_technologist: Acerca de mí </h3>
 
-- <samp> 💼 Actualmente trabajo de <b> Software Developer </b>
-- <samp> 📚 Estudiante de Ingeniería en Informática en la UBA
+- <samp> 💼 Actualmente trabajo de <b> Software Developer </b> en la Facultad de Farmacia y Biquímica de la UBA
+- <samp> 📚 Estudiante de Ingeniería en Informática en la Universidad de Buenos Aires
 - <samp> 🌱 Fortaleciendo conocimientos en <b> Architectures and patterns | Soft Skills | SOLID
 
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tecnologias y Herramientas</h3>
