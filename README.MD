@@ -2,26 +2,22 @@
 
 <h3> :man_technologist: Acerca de mí </h3>
 
-- <samp> 💼 Actualmente trabajo de <b> BackEnd Developer </b> en Quantux Salud
+- <samp> 💼 Actualmente trabajando de <b> Software Engineer </b> para Western Union
 - <samp> 📚 Estudiante de Ingeniería en Informática en la Universidad de Buenos Aires
-- <samp> 🌱 Fortaleciendo conocimientos en <b> Architectures and patterns | Soft Skills | SOLID
+- <samp> 🌱 Fortaleciendo conocimientos en <b> MCP | Agents/Skills AI | Soft Skills
 
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tecnologias y Herramientas</h3>
 
-![GIT](https://img.shields.io/badge/-git-000000?style=for-the-badge&logo=Git)
-![DOCKER](http://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=Docker)
-![LINUX](http://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux)
-![NODEJS](https://img.shields.io/badge/-NODEJS-000000?style=for-the-badge&logo=nodedotjs)
-![EXPRESS](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express)
-![REACT](https://img.shields.io/badge/-REact-000000?style=for-the-badge&logo=react)
-![MONGODB](https://img.shields.io/badge/-mongodb-000000?style=for-the-badge&logo=mongodb)
-![PGSQL](https://img.shields.io/badge/-PGSQL-000000?style=for-the-badge&logo=postgresql)
-![PHP](https://img.shields.io/badge/-PHP-000000?style=for-the-badge&logo=php)
-![COMPOSER](https://img.shields.io/badge/-composer-000000?style=for-the-badge&logo=composer)
-![PYTHON](http://img.shields.io/badge/-PYTHON-000000?style=for-the-badge&logo=python)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=kubernetes,githubcopilot,claude,ts,nextjs,postgres,prisma,php,laravel,ubuntu,java,quarkus,docker,aws,supabase,postman,git,linux,net,azure,sqlserver,nginx,turso,wsl&perline=12)](https://go-skill-icons.vercel.app)
 
 <h3 align="center"> Conecta conmigo:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/nahuel-garcia-a521b9250/"> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Nahuel%20Garcia-blue?style=flat&logo=linkedin"></a>
-<a href="mailto:nahuelgarcia1112@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nahuelgarcia1112@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/nahuel-garcia-a521b9250/">
+  <img align="center" alt="LinkedIn" src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" height="30">
+  Nahuel Garcia
+</a>
+<a href="mailto:nahuelgarcia1112@gmail.com">
+  <img align="center" alt="LinkedIn" src="https://go-skill-icons.vercel.app/api/icons?i=gmail" height="30">
+  nahuelgarcia1112@gmail.com
+</a>
 </p>
