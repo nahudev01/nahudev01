@@ -8,7 +8,7 @@
 
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tecnologias y Herramientas</h3>
 
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=kubernetes,githubcopilot,claude,ts,nextjs,postgres,prisma,php,laravel,ubuntu,java,quarkus,docker,aws,supabase,postman,git,linux,net,azure,sqlserver,nginx,turso,wsl&perline=12)](https://go-skill-icons.vercel.app)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=kubernetes,githubcopilot,claude,ts,nextjs,postgres,prisma,php,laravel,ubuntu,java,quarkus,docker,aws,supabase,postman,git,linux,net,azure,sqlserver,nginx,turso,wsl&perline=14)](https://go-skill-icons.vercel.app)
 
 <h3 align="center"> Conecta conmigo:</h3>
 <p align="center">
